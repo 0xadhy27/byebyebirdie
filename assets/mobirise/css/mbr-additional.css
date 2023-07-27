@@ -1056,7 +1056,10 @@ a {
 .cid-tbhLfp9XNn .mbr-text,
 .cid-tbhLfp9XNn .mbr-section-btn {
   color: #fff;
-  background-color: #148dca6b;
+  background-color: #148dca6c;
+  background-size: 1%;
+  margin-right: 200px;
+  margin-left: 200px;
 }
 .cid-tbhEVEfpbE {
   padding-top: 2rem;
